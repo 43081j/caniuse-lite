@@ -45,10 +45,12 @@
     "@mdn/browser-compat-data": "8.0.2",
     "actions-up": "^1.14.2",
     "caniuse-db": "1.0.30001799",
+    "caniuse-lite-prod": "npm:caniuse-lite@latest",
     "clean-publish": "^7.1.0",
     "eslint-plugin-prefer-let": "^4.2.2",
     "oxlint": "^1.67.0",
     "oxlint-tsgolint": "^0.23.0",
+    "tinybench": "^6.0.2",
     "typescript": "^6.0.3",
     "uvu": "^0.5.6"
   },
